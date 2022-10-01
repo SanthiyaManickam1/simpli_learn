@@ -1,0 +1,16 @@
+.one{
+    color:darkviolet;
+    background-color: black;
+}
+.two{
+    color:blue;
+    background-color: black;
+}
+.three{
+  
+    background-color:white;
+    width: 300px;
+    border: 50px solid yellow;
+    padding: 100px;
+    margin: 10px;
+}
